@@ -1,0 +1,4 @@
+Cod. IBGE Municipio|Atendido Pelo GINFES
+Estado=
+Municpio=
+CodIBGE=0
